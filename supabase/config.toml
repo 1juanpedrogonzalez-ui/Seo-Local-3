@@ -1,0 +1,16 @@
+project_id = "nolqkcczkyzwqkjsjmba"
+
+[functions.generar-web]
+verify_jwt = false
+
+[functions.generar-email]
+verify_jwt = false
+
+[functions.enviar-contacto]
+verify_jwt = false
+
+[functions.importar-negocios]
+verify_jwt = false
+
+[functions.importar-valencia]
+verify_jwt = false
